@@ -1,0 +1,14 @@
+title: "ABE Host"
+description: "Web Hosting & Domains"
+baseurl: /
+url: http://abehost.github.io
+timezone: Europe/London
+image: /images/donjoomla.png
+locale: en_GB
+permalink: /:categories/:title.html
+layout: default
+disqus_shortname: abemedia
+author: Adam Bouqdib
+markdown: kramdown
+gems:
+  - jekyll-sitemap
