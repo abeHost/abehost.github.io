@@ -1,0 +1,20 @@
+-
+    title: Control Panel
+    alias: control-panel
+    image: /images/services/web-development.png
+    desc: "We offer professional, innovative web design &amp; development which is accessible, web standards compliant and SEO friendly."
+-
+    title: Domains
+    alias: domains
+    image: /images/services/ecommerce.png
+    desc: "No two online businesses are the same; that's why our online shops are fully customized to support your specific ecommerce strategy."
+-
+    title: Cloud Hosting
+    alias: cms
+    image: /images/services/joomla-development.png
+    desc: "Our CMS solutions are designed to simplify the publication of your content to your website without requiring any technical knowledge."
+-
+    title: cPanel
+    alias: cpanel
+    image: /images/services/mobile-websites.png
+    desc: "Dedicated mobile sites and responsive web design for mobile phones &amp; tablets. Never miss out on a sale, regardless of the users' device."
