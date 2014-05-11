@@ -105,7 +105,7 @@ footer a:hover {
 	background-image: linear-gradient(top, #222 0%, #222 50%, rgb(188, 113, 38) 50%, rgb(188, 113, 38) 50%, rgb(245, 147, 49) 91%, rgb(254, 152, 51) 100%);
 	background-repeat: repeat;
 }
-.navbar .navbar-nav>li>a, .navbar .navbar-right a {
+.navbar .navbar-nav>li>a {
 	color:#ddd;
 	font-size: 16px;
 	background-size:100% 200%;
@@ -212,7 +212,7 @@ body {
 .navbar-brand {
 	padding: 20px 15px;
 }
-.navbar .navbar-nav>li>a, .navbar .navbar-right a {
+.navbar .navbar-nav>li>a {
 	padding: 25px 15px;
 }
 .navbar .navbar-nav>li>a {
