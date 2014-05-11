@@ -5,11 +5,9 @@ lead: Websites optimised for mobile phones & tablets. <br>Don't miss out on any 
 slug: home
 image: /images/services/abemedia.png
 top:
-    type: _home-banner
+    type: banner
     style: raw
-    params:
-        title: Awesome web design
-        nobutton: true
+    class: orange
 ---
 
 # Domain Names & Web Hosting

@@ -2,7 +2,7 @@
 layout: default
 title: Web Hosting
 lead: World-class Cloud and cPanel hosting products.
-slug: home
+slug: web-hosting
 image: /images/services/abemedia.png
 top:
     type: banner
@@ -12,6 +12,7 @@ bottom:
 -
     type: products
     title: Web Hosting Packages
+    style: raw
     class: grey
     params:
     -
@@ -45,6 +46,5 @@ bottom:
             - Downloadable goods (MP3s, ebooks, etc.)
             - Pay-per-view streaming
             - Web-to-print shops
--
 ---
 Whether you need a full-featured top-of-the-line hosting product, a simple hosting platform for your new website, or just a professional email address, we have the product for you. Check out our full range of Cloud and cPanel hosting products below. All plans are hosted on world-class technology, with the security and reliability of Australia's largest hosting infrastructure.
