@@ -6,6 +6,7 @@ slug: home
 image: /images/services/abemedia.png
 top:
     type: banner
+    style: raw
     class: orange
 bottom:
 -
