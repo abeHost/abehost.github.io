@@ -1,13 +1,12 @@
 ---
 layout: default
-title: ABE Media Web Design &middot; Website Design &amp; Development
-lead: Websites optimised for mobile phones & tablets. <br>Don't miss out on any customers, regardless of what device they are using to browse the web.
+title: Web Hosting
+lead: World-class Cloud and cPanel hosting products.
 slug: home
 image: /images/services/abemedia.png
 top:
-    type: _home-banner
+    type: banner
     style: raw
-    params:
-        title: Awesome web design
-        nobutton: true
+    class: orange
 ---
+Whether you need a full-featured top-of-the-line hosting product, a simple hosting platform for your new website, or just a professional email address, we have the product for you. Check out our full range of Cloud and cPanel hosting products below. All plans are hosted on world-class technology, with the security and reliability of Australia's largest hosting infrastructure.
