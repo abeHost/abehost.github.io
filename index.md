@@ -11,3 +11,9 @@ top:
         title: Awesome web design
         nobutton: true
 ---
+
+# Domain Names & Web Hosting
+
+Getting online can be daunting, and at ABE Host, we have everything you need to get started. No frills, just reliable web hosting, simple domain registration and excellent service.
+
+ABE Host is backed by Australia's largest domain registrar, utilising world-class hosting infrastructure. Rest assured that your personal or business website is safe and secure with us.
